@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ganeshsaini-official/Todo-List-App.git/static/css/main.a701d71d.css",
+    "main.js": "/ganeshsaini-official/Todo-List-App.git/static/js/main.f147c106.js",
+    "index.html": "/ganeshsaini-official/Todo-List-App.git/index.html",
+    "main.a701d71d.css.map": "/ganeshsaini-official/Todo-List-App.git/static/css/main.a701d71d.css.map",
+    "main.f147c106.js.map": "/ganeshsaini-official/Todo-List-App.git/static/js/main.f147c106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a701d71d.css",
+    "static/js/main.f147c106.js"
+  ]
+}
